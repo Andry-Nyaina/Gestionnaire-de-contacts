@@ -27,11 +27,16 @@ Elle est écrite en Python et utilise la programmation orientée objet (POO) et 
 ## 📁 Structure du projet
 
 Gestionnaire_contacts/
-├── main.py # Interface principale (console)
-├── contact.py # Classe Contact
-├── contact_manager.py # Gestion des contacts (ajout, recherche...)
-├── contacts.json # Fichier où les contacts sont enregistrés
-└── README.md # Documentation du projet
+
+  ├── main.py # Interface principale (console)/
+
+  ├── contact.py # Classe Contact
+
+  ├── contact_manager.py # Gestion des contacts (ajout, recherche...)
+
+  ├── contacts.json # Fichier où les contacts sont enregistrés
+
+  └── README.md # Documentation du projet
 
 ## ▶️ Exécution
 
